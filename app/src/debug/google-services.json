@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397075285829",
+    "project_id": "moengage-59293",
+    "storage_bucket": "moengage-59293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397075285829:android:5444119f35a4f5c906202c",
+        "android_client_info": {
+          "package_name": "com.example.moengage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9PrmqEFQm1_re0TgFBAigJ2ti1NibM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
